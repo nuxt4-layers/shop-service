@@ -1,1 +1,1 @@
-# shop-service
+# @nuxt4-layers/shop-service
